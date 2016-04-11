@@ -1,16 +1,13 @@
 ---
 layout: page
-title: 链家移动技术博客
+title: 链家移动团队技术博客
 ---
-hello
 
-## 更多技术分享正在筹备中
+## 更多内容，敬请期待
 
->我们是一个飞速发展的团队，简历请投往join@lianjia.com
+我们是一个快速发展中的团队，简历请投往**join@lianjia.com**
 
 {% highlight scss %}
-  .header {
-    font-size: 100px;
-  }
+	"Hello, LianJia!"
 {% endhighlight %}
 

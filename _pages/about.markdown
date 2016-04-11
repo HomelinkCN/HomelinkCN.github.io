@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About
+title: 关于链家
 permalink: /about/
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+如果你希望站在互联网的风口浪潮之上，创造属于自己的事业；如果你希望与最优秀的人共事，创造令人激动的产品；如果你厌倦了扯皮、内耗，希望快乐简单的工作，做技术，做产品，用自己的能力与智慧改变世界；请加入我们--链家网。
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+中国最大的房产O2O平台，年销售额将超5000亿人民币。业务涉及二手房、新房、租房、商业地产、资产管理、海外房产、互联网金融、ESCROW、装修、搬家、保洁等。已经覆盖北京、上海、深圳、广州、天津、成都、南京、杭州、大连、青岛、苏州、重庆、厦门、武汉、长沙、惠州等。我们求贤若渴，为你提供广阔的发展空间，提供深入了解房产这一国民话题背后深厚的行业背景，并亲身经历并参与其进行互联网变革的巨大挑战。我们提供具有竞争力的薪资和长期激励。我们希望你有轻松拿下BAT等一线大公司offer的能力，有接受一份比BAT还有竞争力的薪水的自信。
